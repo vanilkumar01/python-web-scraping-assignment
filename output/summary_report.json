@@ -1,0 +1,12 @@
+{
+    "books_records_collected": 1000,
+    "quotes_records_collected": 100,
+    "total_records_collected": 1100,
+    "records_after_cleaning": 1100,
+    "records_rejected": 0,
+    "validation_errors": {},
+    "duplicate_records_detected": 1,
+    "final_record_count": 1099,
+    "final_column_count": 10,
+    "execution_time_seconds": 23.54
+}
