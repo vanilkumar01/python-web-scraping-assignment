@@ -2,3 +2,4 @@ python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install requests beautifulsoup4 lxml pytest
 pip freeze > requirements.txt
+streamlit run app.py
